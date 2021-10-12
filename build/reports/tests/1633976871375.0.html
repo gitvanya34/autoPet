@@ -1,0 +1,143 @@
+<html lang="ru" style="transform: translateZ(0px) scale(1, 1);"><head><script>window.widget = {};window.widget.setValue = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'setValue', arguments);
+    };
+window.widget.getValue = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'getValue', arguments);
+    };
+window.widget.getMeta = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'getMeta', arguments);
+    };
+window.widget.getData = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'getData', arguments);
+    };
+window.widget.track = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'track', arguments);
+    };
+window.widget.setScreen = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'setScreen', arguments);
+    };
+window.widget.pushStatus = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'pushStatus', arguments);
+    };
+window.widget.pushSubscribe = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'pushSubscribe', arguments);
+    };
+window.widget.getMotivation = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'getMotivation', arguments);
+    };
+window.widget.sendError = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'sendError', arguments);
+    };
+window.widget.collectEmail = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'collectEmail', arguments);
+    };
+window.widget.hide = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'hide', arguments);
+    };
+window.widget.show = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'show', arguments);
+    };
+window.widget.ready = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'ready', arguments);
+    };
+window.widget.configure = function() {
+      return window.parent.flocktory.wapi(window.frameElement, 'configure', arguments);
+    };Object.freeze(window.widget);</script>
+
+  <title>WC-10690</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="widget-config" data-type="popup" data-width="360" data-height="auto" data-overlay-background="rgba(0, 0, 0, 0.4)">
+
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+      margin: 0;
+      color: #383838;
+      font-family: Roboto, sans-serif;
+      text-align: center;
+    }
+
+    .widget {
+      position: relative;
+      max-width: 360px;
+      padding: 120px 48px 40px;
+      border-radius: 8px;
+      background-color: #ffffff;
+      background-image: url("https://assets.flocktory.com/uploads/clients/2680/f9ee0dd8-8841-489d-b91d-8634b4567e11_cat.png");
+      background-repeat: no-repeat;
+      background-position: top 44px center;
+    }
+
+    .caption {
+      margin: 0 0 22px;
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 24px;
+    }
+
+    .text {
+      margin: 0;
+      font-size: 15px;
+      font-weight: 400;
+      line-height: 22px;
+    }
+    
+    .close {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 50px;
+      height: 50px;
+      padding: 0;
+      border: none;
+      background-color: transparent;
+      background-image: url("https://assets.flocktory.com/uploads/clients/2680/1e094cbb-7c5e-4f03-b000-21037a290980_close.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body data-mutation="0" style="">
+<main class="widget">
+  <h2 class="caption">Нажмите «Разрешить» в&nbsp;углу экрана и получите доступ к скидкам</h2>
+  <p class="text">Или разблокируйте уведомления в&nbsp;адресной строке</p>
+  <button class="close" type="button" data-fl-close=""></button>
+</main>
+
+<script>
+  widget.ready(() => {
+    widget.pushStatus().then(({permission, requireInteraction}) => {
+      if (permission !== 'default') {
+        widget.track('show-widget', true);
+        return;
+      }
+
+      if (requireInteraction) {
+        widget.track('show-widget', true);
+        return;
+      }
+
+      widget.show();
+      widget.track('successful-show', true);
+      widget.pushSubscribe().then(() => {
+        widget.hide(1800);
+      });
+    });
+  });
+  //# sourceURL=widget.js
+</script>
+
+
+</body></html>

@@ -1,0 +1,3 @@
+com\example\autopetshop\PageObject\MainPage.class
+com\example\autopetshop\TestCases\BaseTest.class
+com\example\autopetshop\TestCases\MainPageTest.class

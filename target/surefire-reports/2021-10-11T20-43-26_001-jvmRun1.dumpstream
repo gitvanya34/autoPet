@@ -1,0 +1,3077 @@
+# Created at 2021-10-11T20:43:58.474
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+
+# Created at 2021-10-11T20:44:00.951
+Unexpected IOException with stream: [
+
+# Created at 2021-10-11T20:44:00.951
+Unexpected IOException with stream: 1
+
+# Created at 2021-10-11T20:44:00.951
+Unexpected IOException with stream: 6
+
+# Created at 2021-10-11T20:44:00.954
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:00.954
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:00.955
+Unexpected IOException with stream: 9
+
+# Created at 2021-10-11T20:44:00.955
+Unexpected IOException with stream: 7
+
+# Created at 2021-10-11T20:44:00.955
+Unexpected IOException with stream: 4
+
+# Created at 2021-10-11T20:44:00.955
+Unexpected IOException with stream: 2
+
+# Created at 2021-10-11T20:44:00.955
+Unexpected IOException with stream: 4
+
+# Created at 2021-10-11T20:44:00.956
+Unexpected IOException with stream: 0
+
+# Created at 2021-10-11T20:44:00.957
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:00.957
+Unexpected IOException with stream: 9
+
+# Created at 2021-10-11T20:44:00.957
+Unexpected IOException with stream: 4
+
+# Created at 2021-10-11T20:44:00.957
+Unexpected IOException with stream: 4
+
+# Created at 2021-10-11T20:44:00.958
+Unexpected IOException with stream: ]
+
+# Created at 2021-10-11T20:44:00.958
+Unexpected IOException with stream: [
+
+# Created at 2021-10-11T20:44:00.958
+Unexpected IOException with stream: W
+
+# Created at 2021-10-11T20:44:00.958
+Unexpected IOException with stream: A
+
+# Created at 2021-10-11T20:44:00.959
+Unexpected IOException with stream: R
+
+# Created at 2021-10-11T20:44:00.959
+Unexpected IOException with stream: N
+
+# Created at 2021-10-11T20:44:00.959
+Unexpected IOException with stream: I
+
+# Created at 2021-10-11T20:44:00.960
+Unexpected IOException with stream: N
+
+# Created at 2021-10-11T20:44:00.960
+Unexpected IOException with stream: G
+
+# Created at 2021-10-11T20:44:00.960
+Unexpected IOException with stream: ]
+
+# Created at 2021-10-11T20:44:00.960
+Unexpected IOException with stream: :
+
+# Created at 2021-10-11T20:44:00.961
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:00.961
+Unexpected IOException with stream: T
+
+# Created at 2021-10-11T20:44:00.961
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:00.962
+Unexpected IOException with stream: m
+
+# Created at 2021-10-11T20:44:00.962
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:00.962
+Unexpected IOException with stream: d
+
+# Created at 2021-10-11T20:44:00.962
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:00.963
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:00.963
+Unexpected IOException with stream: u
+
+# Created at 2021-10-11T20:44:00.963
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:00.964
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:00.964
+Unexpected IOException with stream: c
+
+# Created at 2021-10-11T20:44:00.964
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:00.965
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:00.965
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:00.965
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:00.966
+Unexpected IOException with stream: c
+
+# Created at 2021-10-11T20:44:00.966
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:00.966
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:00.966
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:00.967
+Unexpected IOException with stream: g
+
+# Created at 2021-10-11T20:44:00.967
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:00.968
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:00.969
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:00.969
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:00.969
+Unexpected IOException with stream: C
+
+# Created at 2021-10-11T20:44:00.970
+Unexpected IOException with stream: h
+
+# Created at 2021-10-11T20:44:00.970
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:00.970
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:00.971
+Unexpected IOException with stream: m
+
+# Created at 2021-10-11T20:44:00.972
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:00.973
+Unexpected IOException with stream: ,
+
+# Created at 2021-10-11T20:44:00.973
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:00.973
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:00.973
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:00.974
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:00.974
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:00.975
+Unexpected IOException with stream: y
+
+# Created at 2021-10-11T20:44:00.975
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:00.976
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:00.976
+Unexpected IOException with stream: g
+
+# Created at 2021-10-11T20:44:00.977
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:00.977
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:00.978
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:00.978
+Unexpected IOException with stream: 
+
+# Created at 2021-10-11T20:44:00.978
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:13.099
+Unexpected IOException with stream: [
+
+# Created at 2021-10-11T20:44:13.099
+Unexpected IOException with stream: 1
+
+# Created at 2021-10-11T20:44:13.100
+Unexpected IOException with stream: 6
+
+# Created at 2021-10-11T20:44:13.100
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:13.100
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:13.101
+Unexpected IOException with stream: 9
+
+# Created at 2021-10-11T20:44:13.101
+Unexpected IOException with stream: 7
+
+# Created at 2021-10-11T20:44:13.102
+Unexpected IOException with stream: 4
+
+# Created at 2021-10-11T20:44:13.102
+Unexpected IOException with stream: 2
+
+# Created at 2021-10-11T20:44:13.102
+Unexpected IOException with stream: 5
+
+# Created at 2021-10-11T20:44:13.103
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:13.103
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:13.103
+Unexpected IOException with stream: 0
+
+# Created at 2021-10-11T20:44:13.103
+Unexpected IOException with stream: 9
+
+# Created at 2021-10-11T20:44:13.104
+Unexpected IOException with stream: 1
+
+# Created at 2021-10-11T20:44:13.104
+Unexpected IOException with stream: ]
+
+# Created at 2021-10-11T20:44:13.105
+Unexpected IOException with stream: [
+
+# Created at 2021-10-11T20:44:13.105
+Unexpected IOException with stream: W
+
+# Created at 2021-10-11T20:44:13.105
+Unexpected IOException with stream: A
+
+# Created at 2021-10-11T20:44:13.106
+Unexpected IOException with stream: R
+
+# Created at 2021-10-11T20:44:13.106
+Unexpected IOException with stream: N
+
+# Created at 2021-10-11T20:44:13.106
+Unexpected IOException with stream: I
+
+# Created at 2021-10-11T20:44:13.106
+Unexpected IOException with stream: N
+
+# Created at 2021-10-11T20:44:13.107
+Unexpected IOException with stream: G
+
+# Created at 2021-10-11T20:44:13.107
+Unexpected IOException with stream: ]
+
+# Created at 2021-10-11T20:44:13.108
+Unexpected IOException with stream: :
+
+# Created at 2021-10-11T20:44:13.108
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:13.108
+Unexpected IOException with stream: T
+
+# Created at 2021-10-11T20:44:13.108
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:13.109
+Unexpected IOException with stream: m
+
+# Created at 2021-10-11T20:44:13.109
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:13.110
+Unexpected IOException with stream: d
+
+# Created at 2021-10-11T20:44:13.110
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:13.111
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:13.111
+Unexpected IOException with stream: u
+
+# Created at 2021-10-11T20:44:13.111
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:13.112
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:13.113
+Unexpected IOException with stream: c
+
+# Created at 2021-10-11T20:44:13.113
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:13.113
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:13.113
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:13.114
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:13.114
+Unexpected IOException with stream: c
+
+# Created at 2021-10-11T20:44:13.114
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:13.115
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:13.115
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:13.116
+Unexpected IOException with stream: g
+
+# Created at 2021-10-11T20:44:13.116
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:13.116
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:13.116
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:13.116
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:13.117
+Unexpected IOException with stream: C
+
+# Created at 2021-10-11T20:44:13.117
+Unexpected IOException with stream: h
+
+# Created at 2021-10-11T20:44:13.117
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:13.117
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:13.117
+Unexpected IOException with stream: m
+
+# Created at 2021-10-11T20:44:13.118
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:13.118
+Unexpected IOException with stream: ,
+
+# Created at 2021-10-11T20:44:13.118
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:13.118
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:13.118
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:13.118
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:13.119
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:13.119
+Unexpected IOException with stream: y
+
+# Created at 2021-10-11T20:44:13.119
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:13.119
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:13.119
+Unexpected IOException with stream: g
+
+# Created at 2021-10-11T20:44:13.119
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:13.120
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:13.120
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:13.120
+Unexpected IOException with stream: 
+
+# Created at 2021-10-11T20:44:13.120
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.212
+Unexpected IOException with stream: [main] WARN com.codeborne.selenide.impl.WebPageSourceExtractor - Failed to save page source to 1633974249083.0
+
+
+# Created at 2021-10-11T20:44:21.212
+Unexpected IOException with stream: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=94.0.4606.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I5PVI8KV', ip: '192.168.3.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Ivan\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15aa77afe60b7971740cfb16fc58e87a
+
+# Created at 2021-10-11T20:44:21.213
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.213
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2021-10-11T20:44:21.214
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.214
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+
+# Created at 2021-10-11T20:44:21.214
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.214
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2021-10-11T20:44:21.215
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.215
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+
+# Created at 2021-10-11T20:44:21.216
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.216
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+
+# Created at 2021-10-11T20:44:21.216
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.216
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+# Created at 2021-10-11T20:44:21.216
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.216
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+# Created at 2021-10-11T20:44:21.217
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.217
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+# Created at 2021-10-11T20:44:21.217
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.218
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2021-10-11T20:44:21.218
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.218
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2021-10-11T20:44:21.218
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.218
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2021-10-11T20:44:21.219
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.219
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+
+# Created at 2021-10-11T20:44:21.219
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.219
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.getPageSource(RemoteWebDriver.java:438)
+
+# Created at 2021-10-11T20:44:21.220
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.220
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.WebPageSourceExtractor.extract(WebPageSourceExtractor.java:37)
+
+# Created at 2021-10-11T20:44:21.220
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.220
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.WebPageSourceExtractor.extract(WebPageSourceExtractor.java:31)
+
+# Created at 2021-10-11T20:44:21.221
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.221
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.savePageSourceToFile(ScreenShotLaboratory.java:372)
+
+# Created at 2021-10-11T20:44:21.221
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.221
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.takeScreenShot(ScreenShotLaboratory.java:161)
+
+# Created at 2021-10-11T20:44:21.222
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.222
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.lambda$null$10(ScreenShotLaboratory.java:460)
+
+# Created at 2021-10-11T20:44:21.222
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.222
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.ifReportsFolderNotNull(ScreenShotLaboratory.java:548)
+
+# Created at 2021-10-11T20:44:21.223
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.223
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.lambda$takeScreenshot$11(ScreenShotLaboratory.java:459)
+
+# Created at 2021-10-11T20:44:21.223
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.223
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.ifWebDriverStarted(ScreenShotLaboratory.java:538)
+
+# Created at 2021-10-11T20:44:21.223
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.224
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.takeScreenshot(ScreenShotLaboratory.java:458)
+
+# Created at 2021-10-11T20:44:21.224
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.224
+Unexpected IOException with stream: 	at com.codeborne.selenide.ex.UIAssertionError.wrapThrowable(UIAssertionError.java:87)
+
+# Created at 2021-10-11T20:44:21.225
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.225
+Unexpected IOException with stream: 	at com.codeborne.selenide.ex.UIAssertionError.wrap(UIAssertionError.java:67)
+
+# Created at 2021-10-11T20:44:21.225
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.225
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:90)
+
+# Created at 2021-10-11T20:44:21.226
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.226
+Unexpected IOException with stream: 	at jdk.proxy2/jdk.proxy2.$Proxy11.doubleClick(Unknown Source)
+
+# Created at 2021-10-11T20:44:21.226
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.227
+Unexpected IOException with stream: 	at com.example.autopetshop.TestCases.MainPageTest.singIn(MainPageTest.java:41)
+
+# Created at 2021-10-11T20:44:21.227
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.227
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2021-10-11T20:44:21.227
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.228
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+
+# Created at 2021-10-11T20:44:21.228
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.228
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2021-10-11T20:44:21.228
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.229
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+
+# Created at 2021-10-11T20:44:21.229
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.229
+Unexpected IOException with stream: 	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+
+# Created at 2021-10-11T20:44:21.229
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.230
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+
+# Created at 2021-10-11T20:44:21.230
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.230
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+
+# Created at 2021-10-11T20:44:21.231
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.231
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+
+# Created at 2021-10-11T20:44:21.231
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.231
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+
+# Created at 2021-10-11T20:44:21.232
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.232
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+
+# Created at 2021-10-11T20:44:21.232
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.232
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+
+# Created at 2021-10-11T20:44:21.233
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.233
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+
+# Created at 2021-10-11T20:44:21.233
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.233
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+
+# Created at 2021-10-11T20:44:21.234
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.234
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+
+# Created at 2021-10-11T20:44:21.234
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.234
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+
+# Created at 2021-10-11T20:44:21.235
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.235
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+
+# Created at 2021-10-11T20:44:21.235
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.236
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+
+# Created at 2021-10-11T20:44:21.236
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.236
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+
+# Created at 2021-10-11T20:44:21.236
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.237
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+
+# Created at 2021-10-11T20:44:21.237
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.237
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:21.237
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.237
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+
+# Created at 2021-10-11T20:44:21.238
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.238
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+
+# Created at 2021-10-11T20:44:21.238
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.239
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+
+# Created at 2021-10-11T20:44:21.239
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.239
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+
+# Created at 2021-10-11T20:44:21.239
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.240
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:21.240
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.240
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+
+# Created at 2021-10-11T20:44:21.240
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.241
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+
+# Created at 2021-10-11T20:44:21.241
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.241
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+
+# Created at 2021-10-11T20:44:21.241
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.242
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:21.242
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.242
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+
+# Created at 2021-10-11T20:44:21.243
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.243
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+
+# Created at 2021-10-11T20:44:21.243
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.244
+Unexpected IOException with stream: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+# Created at 2021-10-11T20:44:21.244
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.244
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+
+# Created at 2021-10-11T20:44:21.244
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.245
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+
+# Created at 2021-10-11T20:44:21.245
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.245
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:21.245
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.245
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+
+# Created at 2021-10-11T20:44:21.246
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.246
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+
+# Created at 2021-10-11T20:44:21.246
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.246
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+
+# Created at 2021-10-11T20:44:21.246
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.247
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:21.247
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.247
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+
+# Created at 2021-10-11T20:44:21.247
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.247
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+
+# Created at 2021-10-11T20:44:21.248
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.248
+Unexpected IOException with stream: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+# Created at 2021-10-11T20:44:21.248
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.248
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+
+# Created at 2021-10-11T20:44:21.248
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.249
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+
+# Created at 2021-10-11T20:44:21.249
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.249
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:21.249
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.250
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+
+# Created at 2021-10-11T20:44:21.250
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.250
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+
+# Created at 2021-10-11T20:44:21.250
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.251
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+
+# Created at 2021-10-11T20:44:21.251
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.251
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:21.251
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.251
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+
+# Created at 2021-10-11T20:44:21.252
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.252
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+
+# Created at 2021-10-11T20:44:21.252
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.253
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+
+# Created at 2021-10-11T20:44:21.253
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.253
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+
+# Created at 2021-10-11T20:44:21.253
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.254
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+
+# Created at 2021-10-11T20:44:21.254
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.254
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+
+# Created at 2021-10-11T20:44:21.254
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.255
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+
+# Created at 2021-10-11T20:44:21.255
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.255
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+
+# Created at 2021-10-11T20:44:21.255
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.256
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+
+# Created at 2021-10-11T20:44:21.256
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.256
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+
+# Created at 2021-10-11T20:44:21.256
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.257
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+
+# Created at 2021-10-11T20:44:21.257
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.257
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+
+# Created at 2021-10-11T20:44:21.257
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.257
+Unexpected IOException with stream: 	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:150)
+
+# Created at 2021-10-11T20:44:21.258
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.258
+Unexpected IOException with stream: 	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:124)
+
+# Created at 2021-10-11T20:44:21.258
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.258
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2021-10-11T20:44:21.259
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.259
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2021-10-11T20:44:21.259
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.259
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2021-10-11T20:44:21.260
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:21.260
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2021-10-11T20:44:21.260
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:25.276
+Unexpected IOException with stream: [
+
+# Created at 2021-10-11T20:44:25.276
+Unexpected IOException with stream: 1
+
+# Created at 2021-10-11T20:44:25.276
+Unexpected IOException with stream: 6
+
+# Created at 2021-10-11T20:44:25.276
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:25.276
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:25.277
+Unexpected IOException with stream: 9
+
+# Created at 2021-10-11T20:44:25.277
+Unexpected IOException with stream: 7
+
+# Created at 2021-10-11T20:44:25.277
+Unexpected IOException with stream: 4
+
+# Created at 2021-10-11T20:44:25.277
+Unexpected IOException with stream: 2
+
+# Created at 2021-10-11T20:44:25.277
+Unexpected IOException with stream: 6
+
+# Created at 2021-10-11T20:44:25.278
+Unexpected IOException with stream: 5
+
+# Created at 2021-10-11T20:44:25.279
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:25.279
+Unexpected IOException with stream: 2
+
+# Created at 2021-10-11T20:44:25.279
+Unexpected IOException with stream: 6
+
+# Created at 2021-10-11T20:44:25.279
+Unexpected IOException with stream: 8
+
+# Created at 2021-10-11T20:44:25.279
+Unexpected IOException with stream: ]
+
+# Created at 2021-10-11T20:44:25.279
+Unexpected IOException with stream: [
+
+# Created at 2021-10-11T20:44:25.280
+Unexpected IOException with stream: W
+
+# Created at 2021-10-11T20:44:25.280
+Unexpected IOException with stream: A
+
+# Created at 2021-10-11T20:44:25.280
+Unexpected IOException with stream: R
+
+# Created at 2021-10-11T20:44:25.280
+Unexpected IOException with stream: N
+
+# Created at 2021-10-11T20:44:25.280
+Unexpected IOException with stream: I
+
+# Created at 2021-10-11T20:44:25.281
+Unexpected IOException with stream: N
+
+# Created at 2021-10-11T20:44:25.281
+Unexpected IOException with stream: G
+
+# Created at 2021-10-11T20:44:25.281
+Unexpected IOException with stream: ]
+
+# Created at 2021-10-11T20:44:25.281
+Unexpected IOException with stream: :
+
+# Created at 2021-10-11T20:44:25.281
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:25.281
+Unexpected IOException with stream: T
+
+# Created at 2021-10-11T20:44:25.282
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:25.282
+Unexpected IOException with stream: m
+
+# Created at 2021-10-11T20:44:25.282
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:25.282
+Unexpected IOException with stream: d
+
+# Created at 2021-10-11T20:44:25.283
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:25.283
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:25.283
+Unexpected IOException with stream: u
+
+# Created at 2021-10-11T20:44:25.283
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:25.283
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:25.283
+Unexpected IOException with stream: c
+
+# Created at 2021-10-11T20:44:25.284
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:25.284
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:25.284
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:25.284
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:25.284
+Unexpected IOException with stream: c
+
+# Created at 2021-10-11T20:44:25.285
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:25.285
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:25.285
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:25.285
+Unexpected IOException with stream: g
+
+# Created at 2021-10-11T20:44:25.285
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:25.285
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:25.286
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:25.286
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:25.286
+Unexpected IOException with stream: C
+
+# Created at 2021-10-11T20:44:25.286
+Unexpected IOException with stream: h
+
+# Created at 2021-10-11T20:44:25.286
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:25.286
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:25.287
+Unexpected IOException with stream: m
+
+# Created at 2021-10-11T20:44:25.287
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:25.287
+Unexpected IOException with stream: ,
+
+# Created at 2021-10-11T20:44:25.287
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:25.287
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:25.287
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:25.288
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:25.288
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:25.288
+Unexpected IOException with stream: y
+
+# Created at 2021-10-11T20:44:25.288
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:25.288
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:25.288
+Unexpected IOException with stream: g
+
+# Created at 2021-10-11T20:44:25.288
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:25.289
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:25.289
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:25.289
+Unexpected IOException with stream: 
+
+# Created at 2021-10-11T20:44:25.289
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.347
+Unexpected IOException with stream: [main] ERROR com.codeborne.selenide.impl.ScreenShotLaboratory - Failed to take screenshot to 1633974249083.0
+
+
+# Created at 2021-10-11T20:44:33.347
+Unexpected IOException with stream: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=94.0.4606.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I5PVI8KV', ip: '192.168.3.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Ivan\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15aa77afe60b7971740cfb16fc58e87a
+
+# Created at 2021-10-11T20:44:33.348
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.348
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2021-10-11T20:44:33.348
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.349
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+
+# Created at 2021-10-11T20:44:33.349
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.349
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2021-10-11T20:44:33.350
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.350
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+
+# Created at 2021-10-11T20:44:33.350
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.351
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+
+# Created at 2021-10-11T20:44:33.351
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.351
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+# Created at 2021-10-11T20:44:33.351
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.351
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+# Created at 2021-10-11T20:44:33.351
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.352
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+# Created at 2021-10-11T20:44:33.352
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.352
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2021-10-11T20:44:33.352
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.352
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2021-10-11T20:44:33.352
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.353
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2021-10-11T20:44:33.353
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.353
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+
+# Created at 2021-10-11T20:44:33.353
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.353
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+
+# Created at 2021-10-11T20:44:33.353
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.354
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.WebdriverPhotographer.takeScreenshot(WebdriverPhotographer.java:13)
+
+# Created at 2021-10-11T20:44:33.354
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.354
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.savePageImageToFile(ScreenShotLaboratory.java:351)
+
+# Created at 2021-10-11T20:44:33.354
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.354
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.takeScreenShot(ScreenShotLaboratory.java:162)
+
+# Created at 2021-10-11T20:44:33.354
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.354
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.lambda$null$10(ScreenShotLaboratory.java:460)
+
+# Created at 2021-10-11T20:44:33.354
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.355
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.ifReportsFolderNotNull(ScreenShotLaboratory.java:548)
+
+# Created at 2021-10-11T20:44:33.355
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.355
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.lambda$takeScreenshot$11(ScreenShotLaboratory.java:459)
+
+# Created at 2021-10-11T20:44:33.355
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.356
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.ifWebDriverStarted(ScreenShotLaboratory.java:538)
+
+# Created at 2021-10-11T20:44:33.356
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.356
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.ScreenShotLaboratory.takeScreenshot(ScreenShotLaboratory.java:458)
+
+# Created at 2021-10-11T20:44:33.356
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.356
+Unexpected IOException with stream: 	at com.codeborne.selenide.ex.UIAssertionError.wrapThrowable(UIAssertionError.java:87)
+
+# Created at 2021-10-11T20:44:33.356
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.357
+Unexpected IOException with stream: 	at com.codeborne.selenide.ex.UIAssertionError.wrap(UIAssertionError.java:67)
+
+# Created at 2021-10-11T20:44:33.357
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.357
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:90)
+
+# Created at 2021-10-11T20:44:33.357
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.357
+Unexpected IOException with stream: 	at jdk.proxy2/jdk.proxy2.$Proxy11.doubleClick(Unknown Source)
+
+# Created at 2021-10-11T20:44:33.358
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.358
+Unexpected IOException with stream: 	at com.example.autopetshop.TestCases.MainPageTest.singIn(MainPageTest.java:41)
+
+# Created at 2021-10-11T20:44:33.358
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.358
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2021-10-11T20:44:33.358
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.359
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+
+# Created at 2021-10-11T20:44:33.359
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.359
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2021-10-11T20:44:33.359
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.359
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+
+# Created at 2021-10-11T20:44:33.359
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.360
+Unexpected IOException with stream: 	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+
+# Created at 2021-10-11T20:44:33.360
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.360
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+
+# Created at 2021-10-11T20:44:33.361
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.361
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+
+# Created at 2021-10-11T20:44:33.361
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.361
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+
+# Created at 2021-10-11T20:44:33.361
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.361
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+
+# Created at 2021-10-11T20:44:33.362
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.362
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+
+# Created at 2021-10-11T20:44:33.362
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.362
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+
+# Created at 2021-10-11T20:44:33.362
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.363
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+
+# Created at 2021-10-11T20:44:33.363
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.363
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+
+# Created at 2021-10-11T20:44:33.363
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.364
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+
+# Created at 2021-10-11T20:44:33.364
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.365
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+
+# Created at 2021-10-11T20:44:33.365
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.365
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+
+# Created at 2021-10-11T20:44:33.365
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.365
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+
+# Created at 2021-10-11T20:44:33.366
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.366
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+
+# Created at 2021-10-11T20:44:33.366
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.366
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+
+# Created at 2021-10-11T20:44:33.366
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.366
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:33.367
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.367
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+
+# Created at 2021-10-11T20:44:33.367
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.367
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+
+# Created at 2021-10-11T20:44:33.367
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.368
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+
+# Created at 2021-10-11T20:44:33.368
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.368
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+
+# Created at 2021-10-11T20:44:33.368
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.369
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:33.369
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.369
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+
+# Created at 2021-10-11T20:44:33.369
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.370
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+
+# Created at 2021-10-11T20:44:33.370
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.370
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+
+# Created at 2021-10-11T20:44:33.370
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.370
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:33.370
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.370
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+
+# Created at 2021-10-11T20:44:33.371
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.371
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+
+# Created at 2021-10-11T20:44:33.371
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.371
+Unexpected IOException with stream: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+# Created at 2021-10-11T20:44:33.371
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.371
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+
+# Created at 2021-10-11T20:44:33.372
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.372
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+
+# Created at 2021-10-11T20:44:33.372
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.372
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:33.373
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.373
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+
+# Created at 2021-10-11T20:44:33.373
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.373
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+
+# Created at 2021-10-11T20:44:33.373
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.373
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+
+# Created at 2021-10-11T20:44:33.374
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.374
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:33.374
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.374
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+
+# Created at 2021-10-11T20:44:33.374
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.374
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+
+# Created at 2021-10-11T20:44:33.374
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.374
+Unexpected IOException with stream: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+# Created at 2021-10-11T20:44:33.374
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.375
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+
+# Created at 2021-10-11T20:44:33.375
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.375
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+
+# Created at 2021-10-11T20:44:33.376
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.376
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:33.376
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.376
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+
+# Created at 2021-10-11T20:44:33.376
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.377
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+
+# Created at 2021-10-11T20:44:33.377
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.377
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+
+# Created at 2021-10-11T20:44:33.377
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.377
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:33.377
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.378
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+
+# Created at 2021-10-11T20:44:33.378
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.378
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+
+# Created at 2021-10-11T20:44:33.378
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.378
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+
+# Created at 2021-10-11T20:44:33.378
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.378
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+
+# Created at 2021-10-11T20:44:33.379
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.379
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+
+# Created at 2021-10-11T20:44:33.379
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.379
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+
+# Created at 2021-10-11T20:44:33.379
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.380
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+
+# Created at 2021-10-11T20:44:33.380
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.380
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+
+# Created at 2021-10-11T20:44:33.380
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.380
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+
+# Created at 2021-10-11T20:44:33.380
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.380
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+
+# Created at 2021-10-11T20:44:33.381
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.381
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+
+# Created at 2021-10-11T20:44:33.381
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.381
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+
+# Created at 2021-10-11T20:44:33.381
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.381
+Unexpected IOException with stream: 	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:150)
+
+# Created at 2021-10-11T20:44:33.382
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.382
+Unexpected IOException with stream: 	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:124)
+
+# Created at 2021-10-11T20:44:33.382
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.382
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2021-10-11T20:44:33.382
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.382
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2021-10-11T20:44:33.382
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.382
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2021-10-11T20:44:33.383
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:33.383
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2021-10-11T20:44:33.383
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:37.397
+Unexpected IOException with stream: [
+
+# Created at 2021-10-11T20:44:37.397
+Unexpected IOException with stream: 1
+
+# Created at 2021-10-11T20:44:37.397
+Unexpected IOException with stream: 6
+
+# Created at 2021-10-11T20:44:37.398
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:37.398
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:37.398
+Unexpected IOException with stream: 9
+
+# Created at 2021-10-11T20:44:37.399
+Unexpected IOException with stream: 7
+
+# Created at 2021-10-11T20:44:37.399
+Unexpected IOException with stream: 4
+
+# Created at 2021-10-11T20:44:37.399
+Unexpected IOException with stream: 2
+
+# Created at 2021-10-11T20:44:37.399
+Unexpected IOException with stream: 7
+
+# Created at 2021-10-11T20:44:37.399
+Unexpected IOException with stream: 7
+
+# Created at 2021-10-11T20:44:37.399
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:37.400
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:37.400
+Unexpected IOException with stream: 9
+
+# Created at 2021-10-11T20:44:37.400
+Unexpected IOException with stream: 0
+
+# Created at 2021-10-11T20:44:37.400
+Unexpected IOException with stream: ]
+
+# Created at 2021-10-11T20:44:37.400
+Unexpected IOException with stream: [
+
+# Created at 2021-10-11T20:44:37.400
+Unexpected IOException with stream: W
+
+# Created at 2021-10-11T20:44:37.400
+Unexpected IOException with stream: A
+
+# Created at 2021-10-11T20:44:37.401
+Unexpected IOException with stream: R
+
+# Created at 2021-10-11T20:44:37.401
+Unexpected IOException with stream: N
+
+# Created at 2021-10-11T20:44:37.401
+Unexpected IOException with stream: I
+
+# Created at 2021-10-11T20:44:37.401
+Unexpected IOException with stream: N
+
+# Created at 2021-10-11T20:44:37.401
+Unexpected IOException with stream: G
+
+# Created at 2021-10-11T20:44:37.401
+Unexpected IOException with stream: ]
+
+# Created at 2021-10-11T20:44:37.401
+Unexpected IOException with stream: :
+
+# Created at 2021-10-11T20:44:37.401
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:37.402
+Unexpected IOException with stream: T
+
+# Created at 2021-10-11T20:44:37.402
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:37.402
+Unexpected IOException with stream: m
+
+# Created at 2021-10-11T20:44:37.402
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:37.402
+Unexpected IOException with stream: d
+
+# Created at 2021-10-11T20:44:37.402
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:37.403
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:37.403
+Unexpected IOException with stream: u
+
+# Created at 2021-10-11T20:44:37.403
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:37.403
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:37.403
+Unexpected IOException with stream: c
+
+# Created at 2021-10-11T20:44:37.403
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:37.403
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:37.404
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:37.404
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:37.404
+Unexpected IOException with stream: c
+
+# Created at 2021-10-11T20:44:37.404
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:37.404
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:37.404
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:37.405
+Unexpected IOException with stream: g
+
+# Created at 2021-10-11T20:44:37.405
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:37.405
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:37.405
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:37.405
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:37.406
+Unexpected IOException with stream: C
+
+# Created at 2021-10-11T20:44:37.406
+Unexpected IOException with stream: h
+
+# Created at 2021-10-11T20:44:37.406
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:37.406
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:37.406
+Unexpected IOException with stream: m
+
+# Created at 2021-10-11T20:44:37.406
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:37.407
+Unexpected IOException with stream: ,
+
+# Created at 2021-10-11T20:44:37.407
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:37.407
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:37.407
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:37.407
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:37.407
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:37.408
+Unexpected IOException with stream: y
+
+# Created at 2021-10-11T20:44:37.408
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:37.408
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:37.408
+Unexpected IOException with stream: g
+
+# Created at 2021-10-11T20:44:37.408
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:37.408
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:37.408
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:37.409
+Unexpected IOException with stream: 
+
+# Created at 2021-10-11T20:44:37.409
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.566
+Unexpected IOException with stream: [main] WARN io.qameta.allure.selenide.AllureSelenide - Could not get screen shot
+
+
+# Created at 2021-10-11T20:44:45.566
+Unexpected IOException with stream: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=94.0.4606.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I5PVI8KV', ip: '192.168.3.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Ivan\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15aa77afe60b7971740cfb16fc58e87a
+
+# Created at 2021-10-11T20:44:45.566
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.566
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2021-10-11T20:44:45.566
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.570
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+
+# Created at 2021-10-11T20:44:45.570
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.570
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2021-10-11T20:44:45.570
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.570
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+
+# Created at 2021-10-11T20:44:45.571
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.571
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+
+# Created at 2021-10-11T20:44:45.571
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.571
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+# Created at 2021-10-11T20:44:45.571
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.571
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+# Created at 2021-10-11T20:44:45.572
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.572
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+# Created at 2021-10-11T20:44:45.572
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.572
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2021-10-11T20:44:45.572
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.572
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2021-10-11T20:44:45.573
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.573
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2021-10-11T20:44:45.573
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.573
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+
+# Created at 2021-10-11T20:44:45.573
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.574
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+
+# Created at 2021-10-11T20:44:45.574
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.574
+Unexpected IOException with stream: 	at io.qameta.allure.selenide.AllureSelenide.getScreenshotBytes(AllureSelenide.java:96)
+
+# Created at 2021-10-11T20:44:45.574
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.574
+Unexpected IOException with stream: 	at io.qameta.allure.selenide.AllureSelenide.lambda$afterEvent$4(AllureSelenide.java:134)
+
+# Created at 2021-10-11T20:44:45.574
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.575
+Unexpected IOException with stream: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+
+# Created at 2021-10-11T20:44:45.575
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.575
+Unexpected IOException with stream: 	at io.qameta.allure.selenide.AllureSelenide.afterEvent(AllureSelenide.java:132)
+
+# Created at 2021-10-11T20:44:45.575
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.575
+Unexpected IOException with stream: 	at com.codeborne.selenide.logevents.SelenideLogger.commitStep(SelenideLogger.java:141)
+
+# Created at 2021-10-11T20:44:45.575
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.576
+Unexpected IOException with stream: 	at com.codeborne.selenide.logevents.SelenideLogger.commitStep(SelenideLogger.java:132)
+
+# Created at 2021-10-11T20:44:45.576
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.576
+Unexpected IOException with stream: 	at com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:91)
+
+# Created at 2021-10-11T20:44:45.576
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.576
+Unexpected IOException with stream: 	at jdk.proxy2/jdk.proxy2.$Proxy11.doubleClick(Unknown Source)
+
+# Created at 2021-10-11T20:44:45.576
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.576
+Unexpected IOException with stream: 	at com.example.autopetshop.TestCases.MainPageTest.singIn(MainPageTest.java:41)
+
+# Created at 2021-10-11T20:44:45.577
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.577
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2021-10-11T20:44:45.577
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.577
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+
+# Created at 2021-10-11T20:44:45.577
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.577
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2021-10-11T20:44:45.577
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.578
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+
+# Created at 2021-10-11T20:44:45.578
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.578
+Unexpected IOException with stream: 	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:688)
+
+# Created at 2021-10-11T20:44:45.578
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.578
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+
+# Created at 2021-10-11T20:44:45.578
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.579
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+
+# Created at 2021-10-11T20:44:45.579
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.579
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+
+# Created at 2021-10-11T20:44:45.579
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.579
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+
+# Created at 2021-10-11T20:44:45.579
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.579
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+
+# Created at 2021-10-11T20:44:45.580
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.580
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+
+# Created at 2021-10-11T20:44:45.580
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.580
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+
+# Created at 2021-10-11T20:44:45.580
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.580
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+
+# Created at 2021-10-11T20:44:45.580
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.580
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+
+# Created at 2021-10-11T20:44:45.581
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.581
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+
+# Created at 2021-10-11T20:44:45.581
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.581
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+
+# Created at 2021-10-11T20:44:45.581
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.581
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+
+# Created at 2021-10-11T20:44:45.581
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.582
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+
+# Created at 2021-10-11T20:44:45.582
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.582
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:210)
+
+# Created at 2021-10-11T20:44:45.582
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.582
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:45.582
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.583
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:206)
+
+# Created at 2021-10-11T20:44:45.583
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.583
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)
+
+# Created at 2021-10-11T20:44:45.583
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.583
+Unexpected IOException with stream: 	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65)
+
+# Created at 2021-10-11T20:44:45.583
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.583
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+
+# Created at 2021-10-11T20:44:45.584
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.584
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:45.584
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.584
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+
+# Created at 2021-10-11T20:44:45.584
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.584
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+
+# Created at 2021-10-11T20:44:45.585
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.585
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+
+# Created at 2021-10-11T20:44:45.585
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.585
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:45.585
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.585
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+
+# Created at 2021-10-11T20:44:45.586
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.586
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+
+# Created at 2021-10-11T20:44:45.586
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.586
+Unexpected IOException with stream: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+# Created at 2021-10-11T20:44:45.586
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.586
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+
+# Created at 2021-10-11T20:44:45.587
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.587
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+
+# Created at 2021-10-11T20:44:45.587
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.587
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:45.587
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.587
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+
+# Created at 2021-10-11T20:44:45.588
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.588
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+
+# Created at 2021-10-11T20:44:45.588
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.588
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+
+# Created at 2021-10-11T20:44:45.588
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.588
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:45.589
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.589
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+
+# Created at 2021-10-11T20:44:45.589
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.589
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+
+# Created at 2021-10-11T20:44:45.589
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.589
+Unexpected IOException with stream: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+# Created at 2021-10-11T20:44:45.590
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.590
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+
+# Created at 2021-10-11T20:44:45.590
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.590
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143)
+
+# Created at 2021-10-11T20:44:45.590
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.590
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:45.591
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.591
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129)
+
+# Created at 2021-10-11T20:44:45.591
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.591
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+
+# Created at 2021-10-11T20:44:45.591
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.592
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127)
+
+# Created at 2021-10-11T20:44:45.592
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.592
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+
+# Created at 2021-10-11T20:44:45.592
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.592
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126)
+
+# Created at 2021-10-11T20:44:45.592
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.593
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84)
+
+# Created at 2021-10-11T20:44:45.593
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.593
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+
+# Created at 2021-10-11T20:44:45.593
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.593
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+
+# Created at 2021-10-11T20:44:45.593
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.593
+Unexpected IOException with stream: 	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+
+# Created at 2021-10-11T20:44:45.594
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.594
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+
+# Created at 2021-10-11T20:44:45.594
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.594
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+
+# Created at 2021-10-11T20:44:45.594
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.595
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+
+# Created at 2021-10-11T20:44:45.595
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.595
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+
+# Created at 2021-10-11T20:44:45.595
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.595
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+
+# Created at 2021-10-11T20:44:45.595
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.596
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+
+# Created at 2021-10-11T20:44:45.596
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.596
+Unexpected IOException with stream: 	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+
+# Created at 2021-10-11T20:44:45.596
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.596
+Unexpected IOException with stream: 	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:150)
+
+# Created at 2021-10-11T20:44:45.596
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.597
+Unexpected IOException with stream: 	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:124)
+
+# Created at 2021-10-11T20:44:45.597
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.597
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2021-10-11T20:44:45.597
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.597
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2021-10-11T20:44:45.597
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.598
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2021-10-11T20:44:45.598
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:45.598
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2021-10-11T20:44:45.598
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-11T20:44:49.610
+Unexpected IOException with stream: [
+
+# Created at 2021-10-11T20:44:49.610
+Unexpected IOException with stream: 1
+
+# Created at 2021-10-11T20:44:49.611
+Unexpected IOException with stream: 6
+
+# Created at 2021-10-11T20:44:49.611
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:49.611
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:49.612
+Unexpected IOException with stream: 9
+
+# Created at 2021-10-11T20:44:49.612
+Unexpected IOException with stream: 7
+
+# Created at 2021-10-11T20:44:49.612
+Unexpected IOException with stream: 4
+
+# Created at 2021-10-11T20:44:49.612
+Unexpected IOException with stream: 2
+
+# Created at 2021-10-11T20:44:49.612
+Unexpected IOException with stream: 8
+
+# Created at 2021-10-11T20:44:49.613
+Unexpected IOException with stream: 9
+
+# Created at 2021-10-11T20:44:49.613
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:49.613
+Unexpected IOException with stream: 6
+
+# Created at 2021-10-11T20:44:49.613
+Unexpected IOException with stream: 0
+
+# Created at 2021-10-11T20:44:49.613
+Unexpected IOException with stream: 3
+
+# Created at 2021-10-11T20:44:49.613
+Unexpected IOException with stream: ]
+
+# Created at 2021-10-11T20:44:49.613
+Unexpected IOException with stream: [
+
+# Created at 2021-10-11T20:44:49.613
+Unexpected IOException with stream: W
+
+# Created at 2021-10-11T20:44:49.613
+Unexpected IOException with stream: A
+
+# Created at 2021-10-11T20:44:49.614
+Unexpected IOException with stream: R
+
+# Created at 2021-10-11T20:44:49.614
+Unexpected IOException with stream: N
+
+# Created at 2021-10-11T20:44:49.614
+Unexpected IOException with stream: I
+
+# Created at 2021-10-11T20:44:49.614
+Unexpected IOException with stream: N
+
+# Created at 2021-10-11T20:44:49.614
+Unexpected IOException with stream: G
+
+# Created at 2021-10-11T20:44:49.614
+Unexpected IOException with stream: ]
+
+# Created at 2021-10-11T20:44:49.614
+Unexpected IOException with stream: :
+
+# Created at 2021-10-11T20:44:49.614
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:49.615
+Unexpected IOException with stream: T
+
+# Created at 2021-10-11T20:44:49.615
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:49.615
+Unexpected IOException with stream: m
+
+# Created at 2021-10-11T20:44:49.615
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:49.615
+Unexpected IOException with stream: d
+
+# Created at 2021-10-11T20:44:49.615
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:49.615
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:49.615
+Unexpected IOException with stream: u
+
+# Created at 2021-10-11T20:44:49.616
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:49.616
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:49.616
+Unexpected IOException with stream: c
+
+# Created at 2021-10-11T20:44:49.616
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:49.616
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:49.616
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:49.616
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:49.616
+Unexpected IOException with stream: c
+
+# Created at 2021-10-11T20:44:49.616
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:49.616
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:49.617
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:49.617
+Unexpected IOException with stream: g
+
+# Created at 2021-10-11T20:44:49.617
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:49.617
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:49.617
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:49.617
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:49.617
+Unexpected IOException with stream: C
+
+# Created at 2021-10-11T20:44:49.618
+Unexpected IOException with stream: h
+
+# Created at 2021-10-11T20:44:49.618
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:49.618
+Unexpected IOException with stream: o
+
+# Created at 2021-10-11T20:44:49.618
+Unexpected IOException with stream: m
+
+# Created at 2021-10-11T20:44:49.618
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:49.618
+Unexpected IOException with stream: ,
+
+# Created at 2021-10-11T20:44:49.618
+Unexpected IOException with stream:  
+
+# Created at 2021-10-11T20:44:49.618
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:49.618
+Unexpected IOException with stream: e
+
+# Created at 2021-10-11T20:44:49.619
+Unexpected IOException with stream: t
+
+# Created at 2021-10-11T20:44:49.619
+Unexpected IOException with stream: r
+
+# Created at 2021-10-11T20:44:49.619
+Unexpected IOException with stream: y
+
+# Created at 2021-10-11T20:44:49.619
+Unexpected IOException with stream: i
+
+# Created at 2021-10-11T20:44:49.619
+Unexpected IOException with stream: n
+
+# Created at 2021-10-11T20:44:49.619
+Unexpected IOException with stream: g
+
+# Created at 2021-10-11T20:44:49.619
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:49.619
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:49.620
+Unexpected IOException with stream: .
+
+# Created at 2021-10-11T20:44:49.620
+Unexpected IOException with stream: 
+
+# Created at 2021-10-11T20:44:49.620
+Unexpected IOException with stream: 
+
+
